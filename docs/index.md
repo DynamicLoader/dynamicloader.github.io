@@ -14,7 +14,7 @@ description: 此页列出所有项目，您可以点击对应链接前往仓库/
 |[SuperNAM-Z](https://github.com/DynamicLoader/learnCS/tree/SuperNAM-Z)|长方形和三角形图像逆布局的演示程序，基于Qt QML| [HTML](https://docs.dyldr.top/SuperNAM-Z/) [PDF](https://github.com/DynamicLoader/learnCS/releases/download/SuperNAM_Z_Release/SuperNAM-Z_refman.pdf) | [View](https://github.com/DynamicLoader/learnCS/releases/tag/SuperNAM_Z_Release) |
 |[SPLC](https://github.com/DynamicLoader/learnCS/tree/SPLC)|Simple 语言编译器，支持预编译+四元式输出+用JIT解释器运行|-|[View](https://github.com/DynamicLoader/learnCS/releases/tag/SPLC_RELEASE)|
 |[GCScholarInsight](https://github.com/DynamicLoader/learnCS/tree/GCScholarInsight)| 科学文献管理系统，Python + CPP 极致优化，前后端分离 | - | [View](https://github.com/DynamicLoader/learnCS/releases/tag/preview) | 
-|[SimpleET](https://github.com/DynamicLoader/SimpleET)|基于 SpringBoot+Vue3 的微型电商系统| - | - |
+|[SimpleET](https://github.com/DynamicLoader/learnCS/tree/SimpleET)|基于 SpringBoot+Vue3 的微型电商系统| - | - |
 |[LibPageSub](https://github.com/DynamicLoader/LibPageSub)|一个简单的 OS 页面替换算法 header-only 实现库，带有基于 [Unicorn Engine](https://www.unicorn-engine.org/) 的真实程序模拟器| - | - |
 
 ## 其他开源项目
