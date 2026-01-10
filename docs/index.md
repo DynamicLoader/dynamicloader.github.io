@@ -32,9 +32,9 @@ description: 此页列出所有项目，您可以点击对应链接前往仓库/
 
 | Name | Description |
 | :-: | :-: |
-|[LRVM](https://github.com/DynamicLoader/Archived/tree/main/LRVM-Created-20230313)| 小型 RISC-V 虚拟机，使用 C++ 11 |
-|[SmartHomeLib](https://github.com/DynamicLoader/Archived/tree/main/SmartHomeLib-Created-20240815)|自制的平台无关智能家居库，仅开发了设备端|
-|[miniV853s](https://github.com/DynamicLoader/Archived/tree/main/miniV853s-Created-20230313)| 小型 AIOT 开发板，使用全志 V853s CPU |
+|[LRVM](https://github.com/DynamicLoader/Dynamicloader/releases/tag/LRVM-Created-20230313)| 小型 RISC-V 虚拟机，使用 C++ 11 |
+|[SmartHomeLib](https://github.com/DynamicLoader/Dynamicloader/releases/tag/SmartHomeLib-Created-20240815)|自制的平台无关智能家居库，仅开发了设备端|
+|[miniV853s](https://github.com/DynamicLoader/Dynamicloader/releases/tag/miniV853s-Created-20230313)| 小型 AIOT 开发板，使用全志 V853s CPU |
 
 ## 关于开源协议
 大多数项目遵循 BSD-3 开源，以各项目许可证描述为准。
