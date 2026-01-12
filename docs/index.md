@@ -3,10 +3,14 @@ title: DynamicLoader 的项目列表
 description: 此页列出所有项目，您可以点击对应链接前往仓库/查看文档
 ---
 
+| Project | Description | Repos |
+| :-: | :-: | :-: |
+|AbydOS|自行设计的 RISCV-64 架构类 Unix 操作系统|[ABYDOS](https://github.com/DynamicLoader/AbydOS)|
+|TobudOS|2024年腾讯犀牛鸟开源人才培养计划项目，课题一：增加 SMP 支持|[kernel](https://atomgit.com/dynamicloader/kernel/tree/smp) [ChipAdaptation](https://atomgit.com/dynamicloader/ChipAdaptation/tree/picosmp)|
+|CH55xFANCTL|一款利用 CH551/552/554 实现的多功能 PWM 风扇控制器|[CH55xFANCTL](https://github.com/DynamicLoader/CH55xFANCTL)|
+|LittleCtl|一款利用 ESP8266 实现的 PC 电源+串口控制器|[LittleCtl](https://github.com/DynamicLoader/LittleCtl)|
 
-## 学习计算机的项目列表
-
-以下是学习 CS 的过程中做的项目，大部分是合作的，敬请参阅仓库说明。
+## 课程设计项目
 
 | Name | Description | Docs | Latest Release |
 | :-: | :-: | :-: | :-: |
@@ -18,17 +22,7 @@ description: 此页列出所有项目，您可以点击对应链接前往仓库/
 |[HRCore](https://github.com/DynamicLoader/learnCS/tree/HRCore/)|大整数与浮点数运算库| [HTML](https://docs.octz.net/HRCore/) [PDF](https://github.com/DynamicLoader/learnCS/files/11936470/HRCore_manual_public.pdf)| [View](https://github.com/DynamicLoader/learnCS/releases/tag/HRCore_Release) |
 
 
-## 其他开源项目
-
-| Project | Description | Repos |
-| :-: | :-: | :-: |
-| TobudOS |2024年腾讯犀牛鸟开源人才培养计划项目，课题一：增加 SMP 支持|[kernel](https://atomgit.com/dynamicloader/kernel/tree/smp) [ChipAdaptation](https://atomgit.com/dynamicloader/ChipAdaptation/tree/picosmp)|
-|AbydOS|自行设计的 RISCV-64 架构类 Unix 操作系统|[ABYDOS](https://github.com/DynamicLoader/AbydOS)|
-|CH55xFANCTL|一款利用 CH551/552/554 实现的多功能 PWM 风扇控制器|[CH55xFANCTL](https://github.com/DynamicLoader/CH55xFANCTL)|
-|LittleCtl|一款利用 ESP8266 实现的 PC 电源+串口控制器|[LittleCtl](https://github.com/DynamicLoader/LittleCtl)|
-
-
-## 归档的项目列表
+## 归档的项目
 
 | Name | Description |
 | :-: | :-: |
